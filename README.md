@@ -1,8 +1,10 @@
-### Hello! I'm Isaiah C. Rumph 👋
+Hello! I'm Isaiah C. Rumph, a full stack web developer with experience in React, SQL, and C#. 
 
-A Full Stack Software Engineer with experience in React, SQL, and C#. 
-I enjoy building software that is not only functional but also meaningful and maintainable. 
+I enjoy building software that is functional, meaningful, and maintainable. 
+F.M.M
+
 Currently offering freelancing services, I'm always eager to learn new technologies and collaborate on projects that make a positive impact.
+
 Tech Stack
 
     Front-End: React (JavaScript/TypeScript), HTML5, CSS3
@@ -15,8 +17,9 @@ My Why:
 
     To cultivate agency, skillfulness, and truth, through art, effort, and connection, in non-dual existence as a systems engineer. 
 
-This is set, from which the intention is to give rise to learning, creativity, and integrity in action.
-💬 Open to collaboration
+This is set, from which is intended to give rise to learning, creativity, and integrity in action.
+
+💬 Open to connection & collaboration
 <!--
 
 Hi I'm Craig hi
