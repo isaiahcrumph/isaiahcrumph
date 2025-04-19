@@ -11,13 +11,11 @@ Tech Stack
 
     Tools: Git & GitHub, Visual Studio, VS Code
 
-My Why
-
-My work is driven by a personal mission:
+My Why:
 
     To cultivate agency, skillfulness, and truth, through art, effort, and connection, in non-dual existence as a systems engineer. 
 
-This philosophy reminds me to keep learning, stay creative, and build with integrity through every project.
+This is set, from which is intended to give rise to learning, creativity, and integrity in action.
 <!--
 **isaiahcrumph/isaiahcrumph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
